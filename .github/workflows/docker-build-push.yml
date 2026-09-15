@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: axion-data-simulator
+      IMAGE_NAME: axion-ingestion-service
       IMAGE_TAG: v1
       ACR_NAME: vishala
       ACR_LOGIN_SERVER: vishala.azurecr.io
