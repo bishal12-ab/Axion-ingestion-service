@@ -14,8 +14,8 @@ jobs:
     env:
       IMAGE_NAME: axion-ingestion-service
       IMAGE_TAG: v1
-      ACR_NAME: vishala
-      ACR_LOGIN_SERVER: vishala.azurecr.io
+      ACR_NAME: vishalac
+      ACR_LOGIN_SERVER: vishalac.azurecr.io
 
     steps:
       - name: Checkout code
